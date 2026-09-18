@@ -1,0 +1,7 @@
+color_dataset/
+detection_dataset/
+dataset/
+__pycache__/
+*.pyc
+runs/
+annotated_output.jpg
